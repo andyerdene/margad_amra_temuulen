@@ -1,0 +1,27 @@
+h1 {
+  padding: 100px;
+  border: solid green 0px;
+  text-align: center;
+  color: blueviolet;
+  background-color: darkkhaki;
+  margin: 100px;
+}
+body {
+  text-align: center;
+}
+
+img {
+  margin: 50px;
+  border-radius: 20%;
+  width: 300px;
+}
+td {
+  margin: 30px;
+  border: solid green 2px;
+  background-color: rgb(216, 208, 208);
+}
+p {
+  padding: 50px;
+  margin: 50px;
+  border: solid blue 2px;
+}

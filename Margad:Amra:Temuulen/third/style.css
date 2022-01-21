@@ -1,0 +1,12 @@
+table {
+  margin-left: 100px;
+}
+#par1 {
+  margin-left: 50px;
+  color: grey;
+}
+
+.nogoon {
+  color: green;
+  background-color: hotpink;
+}
