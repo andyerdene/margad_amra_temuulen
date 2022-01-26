@@ -1,0 +1,21 @@
+.tests {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.test2 {
+  order: -1;
+}
+
+.tests p {
+  background-color: aqua;
+  border: solid blueviolet 5px;
+  width: calc(25vw - 14px);
+  height: calc(100vh - 100px);
+  text-align: center;
+  font-size: 50px;
+  margin: 0;
+}
+/*
+vw -> viewpoint width
+*/
